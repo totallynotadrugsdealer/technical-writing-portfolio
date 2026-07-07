@@ -64,19 +64,15 @@ Use sentence case for all headings.
 
 Headings should describe the action or concept rather than being overly general.
 
-Good
+✔ Create your first request
 
-Create your first request
+✔ Understanding Collections
 
-Understanding Collections
+✘ Tutorial
 
-Poor
+✘ Guide
 
-Tutorial
-
-Guide
-
-Examples
+✘ Examples
 
 ---
 
