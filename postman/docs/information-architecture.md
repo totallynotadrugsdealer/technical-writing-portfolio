@@ -18,7 +18,7 @@ The documentation is organized in the order a beginner is most likely to need it
 
 ---
 
-## Stage 2 — Getting Started
+## Stage 2 - Getting Started
 
 4. Installing Postman
 5. Creating a Postman Account
@@ -26,7 +26,7 @@ The documentation is organized in the order a beginner is most likely to need it
 
 ---
 
-## Stage 3 — First API Request
+## Stage 3 - First API Request
 
 7. Sending Your First GET Request
 8. Reading the Response
@@ -34,7 +34,7 @@ The documentation is organized in the order a beginner is most likely to need it
 
 ---
 
-## Stage 4 — Organizing Work
+## Stage 4 - Organizing Work
 
 10. Collections
 11. Workspaces
@@ -42,7 +42,7 @@ The documentation is organized in the order a beginner is most likely to need it
 
 ---
 
-## Stage 5 — Troubleshooting
+## Stage 5 - Troubleshooting
 
 13. Common Errors
 14. Authentication Problems
