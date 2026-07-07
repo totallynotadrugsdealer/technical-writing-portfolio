@@ -6,7 +6,7 @@ Help first-time Postman users understand the product and successfully send their
 
 ---
 
-# Documentation Path
+# Documentation Map
 
 The documentation is organized in the order a beginner is most likely to need it.
 
