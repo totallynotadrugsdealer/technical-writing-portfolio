@@ -8,11 +8,11 @@ The goal is to produce documentation that is clear, consistent, accurate, and ap
 
 ---
 
-# Audience
+## Audience
 
-This documentation is written for users with little or no prior experience working with APIs or Postman.
+This documentation is written for beginners with little or no experience working with APIs.
 
-Assume the reader is technically curious but unfamiliar with API terminology.
+Assume readers are comfortable using computers but unfamiliar with API terminology.
 
 ---
 
@@ -58,13 +58,25 @@ Use present tense whenever possible.
 
 ---
 
-# Headings
+## Headings
 
-Use sentence case.
+Use sentence case for all headings.
 
-✔ Create your first request
+Headings should describe the action or concept rather than being overly general.
 
-✘ CREATE YOUR FIRST REQUEST
+Good
+
+Create your first request
+
+Understanding Collections
+
+Poor
+
+Tutorial
+
+Guide
+
+Examples
 
 ---
 
