@@ -76,11 +76,19 @@ Headings should describe the action or concept rather than being overly general.
 
 ---
 
-# Procedures
+## Procedures
 
-Use numbered steps.
+Write instructions as numbered steps.
 
-Each step should contain one action.
+Begin each step with an imperative verb.
+
+Each step should describe one action only.
+
+✔ 1. Select **Send**.
+
+✔ 2. Review the response body.
+
+✘ Click Send and then look at the response while making sure everything works.
 
 ---
 
