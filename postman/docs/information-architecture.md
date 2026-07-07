@@ -10,7 +10,7 @@ Help first-time Postman users understand the product and successfully send their
 
 The documentation is organized in the order a beginner is most likely to need it.
 
-## Stage 1 - Understanding the Product
+## Stage 1 -- Understanding the Product
 
 1. What is Postman?
 2. What is an API?
