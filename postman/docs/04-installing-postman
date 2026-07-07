@@ -1,0 +1,150 @@
+# Installing Postman
+
+| Field | Value |
+|--------|-------|
+| Audience | Beginners with little or no experience working with APIs |
+| Document Type | Task |
+| Estimated Reading Time | 5–10 minutes |
+| Prerequisites | What is Postman?, What is an API?, Understanding HTTP Requests and Responses |
+
+---
+
+# Purpose
+
+This guide explains how to download the Postman desktop application and begin the installation process. After completing this guide, you will have downloaded the Postman installer appropriate for your operating system.
+
+---
+
+# Prerequisites
+
+Before you begin, ensure that you have:
+
+- A stable internet connection.
+- Access to an email account.
+- A supported operating system (macOS, Windows, or Linux).
+
+---
+
+# Download the Postman installer
+
+1. Open your preferred web browser.
+
+2. Navigate to:
+
+   ```
+   https://www.postman.com
+   ```
+
+3. On the Postman homepage, select **Product** from the navigation bar.
+
+   *Screenshot: Postman homepage*
+
+4. From the drop-down menu, select **Download Postman**.
+
+   *Screenshot: Product menu with "Download Postman" highlighted*
+
+5. The **Download Postman** page opens.
+
+6. Select the download option that matches your operating system.
+
+   Examples include:
+
+   - Apple Silicon Chip
+   - Mac Intel Chip
+   - Windows (x64)
+   - Windows (ARM64)
+   - Linux
+
+   *Screenshot: Download Postman page*
+
+---
+
+# Request a download link
+
+1. Select the appropriate download button for your operating system.
+
+   For example, on an Apple Silicon Mac, select **Apple Silicon Chip**.
+
+2. A dialog box appears asking for your email address.
+
+3. Enter an email address that you can access on the device where you plan to install Postman.
+
+4. Select **Submit**.
+
+   *Screenshot: Email submission dialog*
+
+> **Note**
+>
+> Postman sends the download link to your email address instead of immediately downloading the installer.
+
+---
+
+# Retrieve the download link
+
+After submitting your email address, the download page displays a confirmation message indicating that a download link has been sent.
+
+The message is similar to:
+
+> **Check your inbox**
+>
+> We sent a download link to your email address. The link typically arrives within one minute.
+
+1. Open your email inbox.
+
+2. Locate the email with the subject:
+
+   ```
+   Your Postman download link
+   ```
+
+3. Verify that the sender is:
+
+   ```
+   noreply@getpostman.com
+   ```
+
+   *Screenshot: Download email*
+
+---
+
+# Download the installer
+
+1. Open the download email.
+
+2. Select **Download Postman for macOS** (or the equivalent button for your operating system).
+
+The installer begins downloading automatically.
+
+> **Note**
+>
+> If you selected the wrong operating system earlier, the email also provides download links for other supported platforms, including:
+>
+> - Mac (Intel Chip)
+> - Windows (x64)
+> - Windows (ARM64)
+> - Linux (ARM64)
+> - Linux (x64)
+> - Postman Web
+
+---
+
+# Verification
+
+Verify that the installer has been downloaded successfully.
+
+For example, on macOS, the downloaded installer appears in the **Downloads** folder as a ZIP archive.
+
+---
+
+# Summary
+
+You have downloaded the Postman installer for your operating system.
+
+In the next guide, you will install the application and complete the initial setup.
+
+---
+
+# Related documentation
+
+- Previous guide: **Understanding HTTP Requests and Responses**
+- Next guide: **Creating a Postman Account**
