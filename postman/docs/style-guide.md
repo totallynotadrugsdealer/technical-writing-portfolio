@@ -2,7 +2,9 @@
 
 ## Purpose
 
-This style guide defines the writing standards used throughout this documentation project. The goal is to produce documentation that is clear, consistent, accurate, and easy for beginners to follow.
+This style guide defines the writing standards used throughout the Postman documentation project.
+
+The goal is to produce documentation that is clear, consistent, accurate, and approachable for beginners learning APIs and Postman for the first time.
 
 ---
 
