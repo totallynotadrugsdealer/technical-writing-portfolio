@@ -57,3 +57,46 @@ Glossary
 Keyboard Shortcuts
 
 HTTP Status Codes
+
+---
+
+# Content Priority
+
+## Must Have
+
+- What is Postman?
+- Installing Postman
+- Sending Your First API Request
+- Understanding Responses
+
+## Should Have
+
+- Collections
+- Workspaces
+- Environments
+
+## Nice to Have
+
+- Glossary
+- Troubleshooting
+- Keyboard Shortcuts
+
+---
+
+# User Journey
+
+User discovers Postman
+↓
+User installs Postman
+↓
+User creates an account
+↓
+User learns what an API is
+↓
+User sends their first GET request
+↓
+User understands the response
+↓
+User saves the request into a Collection
+↓
+User begins organizing work using Workspaces
