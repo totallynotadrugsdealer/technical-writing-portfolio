@@ -42,57 +42,91 @@ Postman provides a single platform where you can:
 By bringing these capabilities together, Postman simplifies many common API development tasks.
 
 ---
+# What is Postman?
 
-# Key capabilities
+Postman is an API platform that helps developers build, test, document, manage, and share APIs throughout the software development lifecycle.
 
-The current version of Postman provides capabilities across the API lifecycle.
+Instead of writing code to manually communicate with an API, you can use Postman to send requests, inspect responses, organize your work, automate testing, and collaborate with others using a graphical interface.
 
-Some of the core capabilities include:
+If you are unfamiliar with APIs, continue to the next guide, **What is an API?**, before proceeding with the rest of this documentation.
+
+---
+
+## Why use Postman?
+
+Modern applications constantly exchange information with other applications through APIs. Postman brings the tools needed to work with those APIs into a single platform.
+
+With Postman, you can:
+
+- Send API requests.
+- Inspect API responses.
+- Organize requests into Collections.
+- Test API behaviour.
+- Generate API documentation.
+- Collaborate with teammates using shared Workspaces.
+- Monitor APIs.
+- Work with multiple API protocols.
+
+---
+
+## Key capabilities
+
+Postman supports different stages of the API lifecycle.
+
+Some of its core capabilities include:
 
 - Designing and testing APIs.
-- Creating and organizing Collections.
-- Working with Workspaces for collaboration.
-- Generating documentation.
+- Creating reusable Collections.
+- Managing Workspaces for collaboration.
 - Running automated tests.
-- Monitoring APIs.
-- Supporting multiple API protocols, including HTTP, GraphQL, gRPC, WebSockets, MQTT, and others.
-- AI-assisted features that help generate tests, build requests, and improve development workflows.
+- Publishing API documentation.
+- Monitoring API performance.
+- Supporting multiple protocols, including HTTP, GraphQL, gRPC, WebSockets, MQTT, and others.
+- AI-assisted workflows for building and testing APIs.
 
-Depending on your role, you may use only a small subset of these capabilities.
-
----
-
-# Who should use Postman?
-
-Postman is designed for a wide range of users, including:
-
-- Developers building or testing APIs.
-- QA engineers validating application behaviour.
-- Technical writers documenting APIs.
-- Product teams collaborating on API development.
-- Organizations managing APIs across multiple teams.
-
-This documentation focuses on beginners who are learning how to use Postman for the first time.
+Depending on your role, you may only use a subset of these capabilities.
 
 ---
 
-# What you will learn
+## Who uses Postman?
 
-Throughout this documentation, you will learn how to:
+Postman is used by a wide range of technical professionals, including:
 
-- Install Postman.
-- Understand basic API concepts.
-- Explore the Postman interface.
-- Send your first API request.
-- Interpret API responses.
-- Organize requests into Collections.
-- Understand the purpose of Workspaces.
-- Troubleshoot common issues.
+- Software developers.
+- Quality assurance (QA) engineers.
+- Technical writers.
+- Product teams.
+- DevOps engineers.
+- Enterprise organizations managing multiple APIs.
+
+This documentation is intended for beginners who are learning how to use Postman for the first time.
 
 ---
 
-# Related documentation
+## What you will learn
 
-Continue with the next guide:
+This documentation set is designed to help you gradually become familiar with Postman.
 
-- Install Postman
+The guides will cover:
+
+- API fundamentals.
+- Installing Postman.
+- Understanding the Postman interface.
+- Sending your first API request.
+- Reading API responses.
+- Organizing requests using Collections.
+- Working with Workspaces and Environments.
+- Troubleshooting common problems.
+
+---
+
+## Additional resources
+
+- Postman homepage
+- Postman Learning Center
+
+---
+
+## Next guide
+
+➡ **What is an API?**
