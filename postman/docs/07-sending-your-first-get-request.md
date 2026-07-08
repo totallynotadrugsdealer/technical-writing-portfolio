@@ -73,7 +73,7 @@ After a few moments, Postman sends the request to the Postman Echo API and displ
 
 # Example
 
-![A completed GET request ready to be sent](images/07-first-get-request.png)
+![A completed GET request ready to be sent](images/07-first-get-request.png) 
 
 *Figure 1. A completed GET request using the Postman Echo endpoint.*
 
