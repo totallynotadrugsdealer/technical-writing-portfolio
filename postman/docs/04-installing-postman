@@ -11,7 +11,7 @@
 
 # Purpose
 
-This guide explains how to download the Postman desktop application and begin the installation process. After completing this guide, you will have downloaded the Postman installer appropriate for your operating system.
+This guide explains how to download, install, and launch the Postman desktop application. After completing this guide, you will have Postman installed and ready to begin the initial setup process.
 
 ---
 
@@ -25,7 +25,7 @@ Before you begin, ensure that you have:
 
 ---
 
-# Download the Postman installer
+# Download the Postman application
 
 1. Open your preferred web browser.
 
@@ -37,11 +37,11 @@ Before you begin, ensure that you have:
 
 3. On the Postman homepage, select **Product** from the navigation bar.
 
-   ![postman-homepage.png](technical-writing-portfolio/postman/images/postman-homepage.png)
+   ![Postman homepage](../images/postman-homepage.png)
 
 4. From the drop-down menu, select **Download Postman**.
 
-   ![download-postman-menu-option.png](technical-writing-portfolio/postman/images/download-postman-menu-option.png)
+   ![Download Postman menu option](../images/download-postman-menu-option.png)
 
 5. The **Download Postman** page opens.
 
@@ -55,7 +55,7 @@ Before you begin, ensure that you have:
    - Windows (ARM64)
    - Linux
 
-   ![download-postman-landing-page.png](technical-writing-portfolio/postman/images/download-postman-landing-page.png)
+   ![Download Postman page](../images/download-postman-landing-page.png)
 
 ---
 
@@ -71,12 +71,11 @@ Before you begin, ensure that you have:
 
 4. Select **Submit**.
 
-   ![download-email.png](technical-writing-portfolio/postman/images/download-email.png)
-
+   ![Email address dialog](../images/download-email.png)
 
 > **Note**
 >
-> Postman sends the download link to your email address instead of immediately downloading the installer.
+> Postman sends a download link to your email address instead of immediately downloading the application.
 
 ---
 
@@ -104,18 +103,17 @@ The message is similar to:
    noreply@getpostman.com
    ```
 
-   ![email-download-zip.png](technical-writing-portfolio/postman/images/email-download-zip.png)
-
+   ![Download email](../images/email-download-zip.png)
 
 ---
 
-# Download the installer
+# Download the application
 
 1. Open the download email.
 
 2. Select **Download Postman for macOS** (or the equivalent button for your operating system).
 
-The installer begins downloading automatically.
+The Postman application begins downloading automatically.
 
 > **Note**
 >
@@ -130,19 +128,74 @@ The installer begins downloading automatically.
 
 ---
 
+# Open the downloaded application
+
+When the download has finished, open the downloaded Postman application.
+
+On macOS, a security prompt appears asking whether you want to open an application downloaded using Safari.
+
+Select **Open** to continue.
+
+![Security confirmation dialog](../images/postman-install-dialogue.png)
+
+---
+
+# Move Postman to the Applications folder
+
+After opening Postman for the first time, another dialog recommends moving the application to the **Applications** folder.
+
+The dialog explains that moving the application ensures that future updates are installed correctly.
+
+Select **Move to Applications Folder**.
+
+![Move to Applications Folder dialog](../images/move-app.png)
+
+> **Recommendation**
+>
+> Although you can select **Do Not Move**, moving Postman to the **Applications** folder is recommended because it allows the application to manage future updates correctly.
+
+---
+
+# Launch Postman
+
+After Postman starts, the welcome screen is displayed.
+
+From this screen, you can:
+
+- Create a free account.
+- Log in with an existing account.
+- Continue with Google.
+- Continue with GitHub.
+- Use Single Sign-On (SSO).
+- Continue without an account.
+
+![Postman welcome screen](../images/postman-app-homepage.png)
+
+If you are new to Postman, creating a free account allows you to synchronize your work across devices and collaborate with other users.
+
+If you prefer to explore the application before creating an account, select **Continue without an account**.
+
+---
+
 # Verification
 
-Verify that the installer has been downloaded successfully.
+Verify that Postman has been installed successfully.
 
-For example, on macOS, the downloaded installer appears in the **Downloads** folder as a ZIP archive.
+You should be able to:
+
+- Launch the Postman application.
+- View the Postman welcome screen.
+- Access the available sign-in options.
+
+If the welcome screen is displayed, the installation was successful.
 
 ---
 
 # Summary
 
-You have downloaded the Postman installer for your operating system.
+You have downloaded, installed, and launched the Postman desktop application.
 
-In the next guide, you will install the application and complete the initial setup.
+You are now ready to create or sign in to a Postman account and begin using the application.
 
 ---
 
