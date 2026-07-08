@@ -56,6 +56,10 @@ For this request, you do **not** need to configure:
 
 Only the request URL is required.
 
+> **Note**
+>
+> Some APIs require additional information to be sent with the request, such as query parameters. In Postman, you can add these either directly to the URL or by using the **Params** tab. For this introductory exercise, the Postman Echo endpoint works without any additional parameters, allowing you to focus on the basic request workflow.
+
 ---
 
 # Sending your first GET request
