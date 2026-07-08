@@ -201,7 +201,6 @@ Choose one of the following:
 
 Selecting **Always Allow** automatically opens the Postman desktop application whenever Postman requests permission in the future.
 
-
 ---
 
 # Welcome to Postman
