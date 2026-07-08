@@ -48,7 +48,7 @@ Although both methods use the same account creation form, the experience after a
 
 3. Select **Sign Up for Free**.
 
-   ![Postman homepage](../images/launch-postman-webpage.png)
+   ![Postman homepage](../images/postman-create-account-webpage.png)
 
 4. The **Create Postman account** page opens.
 
