@@ -259,3 +259,60 @@ If a request does not behave as expected, the Console is often the first place t
 
 Refer to the annotated interface overview above to locate the Footer.
 
+---
+
+# Putting it all together
+
+Now that you have explored the major areas of the Postman interface, you can see how they work together during a typical workflow.
+
+For example, when creating and sending an API request, you would generally:
+
+1. Select the appropriate workspace from the **Header**.
+2. Locate or create a collection from the **Sidebar**.
+3. Open or create a request in the **Workbench**.
+4. Configure the request using the **Request Builder**.
+5. Select an environment, if required.
+6. Send the request.
+7. Review the server's response in the **Response Viewer**.
+8. Use the **Right Sidebar** or **Footer** tools if you need additional information or troubleshooting assistance.
+
+As you continue learning Postman, these steps will become part of your regular workflow.
+
+---
+
+# Verification
+
+Verify that you can complete the following tasks:
+
+- Locate the Header.
+- Locate the Sidebar.
+- Identify the Workbench.
+- Find the Request Builder.
+- Locate the Response Viewer.
+- Find the Environment Selector.
+- Locate the Right Sidebar.
+- Open the Footer and identify the Postman Console.
+
+If you can identify these interface components, you are ready to begin creating and sending API requests.
+
+---
+
+# Summary
+
+In this guide, you learned how the Postman interface is organized and the purpose of its primary components.
+
+You should now be able to:
+
+- Navigate the Postman workspace.
+- Identify the major interface components.
+- Understand where API requests are created and responses are displayed.
+- Locate common tools used throughout the application.
+
+Understanding the interface provides the foundation for the remaining guides in this series.
+
+---
+
+# Related documentation
+
+- Previous guide: **Creating a Postman Account**
+- Next guide: **Sending Your First API Request**
