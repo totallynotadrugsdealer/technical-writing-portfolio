@@ -1,41 +1,172 @@
-A **Postman Collection** is one of the fundamental elements in Postman, used to save, organize, and share API requests. Collections help you group related requests together, collaborate with teammates, and streamline your API development workflows.
+# Collections
 
-## What is a Collection?
+| Field | Value |
+|--------|-------|
+| Audience | Beginners with little or no experience working with APIs |
+| Document Type | Concept |
+| Estimated Reading Time | 5–7 minutes |
+| Prerequisites | Saving a Request |
 
-A collection is a set of requests sent to API endpoints [^1]. It can also include:
+---
 
-- Saved responses from requests
-- Each endpoint's authorization type, parameters, and headers
-- Request bodies, tests, and settings [^1]
+# Purpose
 
-## What You Can Do with Collections
+This guide introduces **Postman Collections**, one of the core features of Postman. By the end of this guide, you will understand what collections are, why they are useful, and how they help organize API requests as your projects grow.
 
-- **Create collections** from scratch or from Postman's predefined templates, to save frequently used requests or group requests for a specific purpose like testing or simulating workflows [^2]
-- **Add API requests** — collections can contain HTTP requests, or you can create a multi-protocol collection with GraphQL, gRPC, and other request types [^2]
-- **Organize requests** using folders and subfolders, drag-and-drop reordering, or alphabetical sorting [^3]
-- **Collaborate** by sharing collections, watching for changes, tagging collections, and adding comments [^2]
-- **View activity** on the collection's Overview tab, which shows a changelog, associated environments, monitors, and mocks [^2]
+---
 
-## Managing Collections
+# What is a Collection?
 
-You can manage collections directly in the Postman sidebar by clicking **Items > Collections** [^3]. Key management actions include:
+A **Collection** is a group of saved API requests.
 
-- Adding folders and subfolders to group requests
-- Deleting collections (with the option to recover them from Trash)
-- Reverting a collection to an earlier state using the changelog
-- Bulk selecting multiple collections with **⌘** or **Ctrl** + click [^3]
+Instead of keeping requests in separate tabs, you can organize related requests into a single collection. Collections make it easier to manage APIs, reuse requests, and collaborate with others.
 
-## Collection Format
+A collection can store more than just requests. It can also include:
 
-Postman Collections are based on an open source *collection format* that is both machine and human readable [^2]. This format can be used to generate client and server SDKs, documentation, and mock servers.
+- Request parameters
+- Headers
+- Authorization settings
+- Request bodies
+- Saved responses
+- Tests and scripts
+- Variables
+- Documentation
 
-## Programmatic Management
+As you continue working with APIs, collections become the primary way to organize your work.
 
-You can also manage collections programmatically using the [Postman API](https://api.postman.com/). This allows you to add, delete, or update collections, transfer items between collections, manage forks and pull requests, and even import OpenAPI definitions to create collections [^4].
+---
 
-In summary, collections are the core organizational unit in Postman, enabling you to structure your API requests, collaborate with your team, and integrate with broader development workflows.
+# Why use Collections?
 
-[^1]: https://learning.postman.com/docs/getting-started/basics/postman-elements
-[^2]: https://learning.postman.com/docs/use/use-collections/overview
-[^3]: https://learning.postman.com/docs/use/use-collections/manage-collections
-[^4]: https://learning.postman.com/docs/reference/postman-api/intro-api
+Collections provide several advantages:
+
+- Keep related API requests together.
+- Reuse requests without recreating them.
+- Organize requests using folders and subfolders.
+- Share API requests with teammates.
+- Store reusable settings for multiple requests.
+
+For example, if you're working with a weather API, you might create a collection containing requests for:
+
+- Current weather
+- Weather forecast
+- Air quality
+- Historical weather
+
+Keeping these requests together makes them easier to find and maintain.
+
+---
+
+# The Collection workspace
+
+When you open a collection, Postman displays several tabs that help you manage it.
+
+These include:
+
+- **Overview** – Displays the collection's description and general information.
+- **Authorization** – Configure authentication that can be shared by requests in the collection.
+- **Scripts** – Add scripts that run before or after every request.
+- **Variables** – Store reusable values for the collection.
+- **Runs** – Execute multiple requests in the collection together.
+
+![Collection overview](../images/collection-details.png)
+
+*Figure 1. The Collection workspace in Postman.*
+
+> **Image Credit**
+>
+> Adapted from the Postman Learning Center documentation. Original image © Postman, Inc. Used for educational purposes. :contentReference[oaicite:0]{index=0}
+
+---
+
+# Organizing requests
+
+As collections grow, you can organize requests into folders.
+
+For example:
+
+```
+Weather API
+├── Current Weather
+├── Forecast
+├── Historical Data
+└── Air Quality
+```
+
+Folders help keep related requests together and make large collections easier to navigate.
+
+You can also reorder requests by dragging and dropping them or sort them alphabetically.
+
+---
+
+# Creating a new Collection
+
+There are multiple ways to create a collection in Postman.
+
+You can:
+
+- Click the **+** button and select **Collection**.
+- Click **Create** in the **Collections** sidebar.
+- Create a new collection while saving a request.
+
+After creating a collection, you can rename it, add a description, configure authorization, and begin adding requests.
+
+![Creating a new collection](../images/new-collection.png)
+
+*Figure 2. Creating a new collection.*
+
+> **Image Credit**
+>
+> Adapted from the Postman Learning Center documentation. Original image © Postman, Inc. Used for educational purposes. :contentReference[oaicite:1]{index=1}
+
+---
+
+# Collections grow with your project
+
+Collections are designed to support projects of any size.
+
+As your API grows, a collection can contain:
+
+- Multiple folders
+- Dozens or hundreds of requests
+- Shared authorization
+- Collection variables
+- Automated scripts
+- Documentation
+- Saved examples
+
+Rather than managing individual requests separately, you manage the entire API from one organized location.
+
+---
+
+# Verification
+
+After reading this guide, you should be able to:
+
+- Explain what a Postman Collection is.
+- Describe why collections are useful.
+- Identify the main tabs within a collection.
+- Explain how folders help organize requests.
+- Recognize that collections can store more than just API requests.
+
+---
+
+# Summary
+
+In this guide, you learned what Postman Collections are and why they are central to organizing API requests.
+
+You should now understand that collections:
+
+- Group related API requests.
+- Store settings and reusable information.
+- Help organize larger projects.
+- Support collaboration and automation.
+
+In the next guide, you will learn how to organize collections using **Folders**.
+
+---
+
+# Related documentation
+
+- Previous guide: **Saving a Request**
+- Next guide: **Folders**
