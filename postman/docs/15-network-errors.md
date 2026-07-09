@@ -204,4 +204,4 @@ Most issues are caused by unavailable servers, incorrect URLs, DNS failures, fir
 # Related documentation
 
 - Previous guide: **Authentication Problems**
-- Next guide: **Variables**
+- Next guide: **Glossary**
