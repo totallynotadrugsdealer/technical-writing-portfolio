@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept id="what-is-postman">
+
+    <title>What is Postman?</title>
+
+    <conbody>
+
+        <p>Postman is an API platform that helps developers design, test, document, monitor, and collaborate on APIs throughout the API lifecycle.</p>
+        
+            <p conref="../common/api-definition.dita#api-definition/api-description"/>
+        
+        <p>It provides a graphical interface for sending HTTP requests, inspecting responses, organizing API requests into collections, and automating common development tasks.</p>
+
+        <p>Although Postman is widely used by software developers, it is also valuable for testers, technical writers, DevOps engineers, product managers, and anyone who works with APIs.</p>
+
+        <section>
+
+    <title>Why use Postman?</title>
+
+        <p>Postman simplifies working with APIs by providing a single platform for designing, testing, documenting, and managing API requests.</p>
+
+        <ul>
+            <li>Send and test HTTP requests.</li>
+            <li>Inspect API responses.</li>
+            <li>Organize requests into collections.</li>
+            <li>Collaborate with team members.</li>
+            <li>Document APIs.</li>
+        </ul>
+
+        <note type="note">
+            Postman is available as both a desktop application and a web application. Most guides in this documentation use the desktop application.
+        </note>
+        </section>
+
+    </conbody>
+
+</concept>

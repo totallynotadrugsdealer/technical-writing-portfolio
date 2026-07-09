@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept id="api-definition">
+
+    <title>What is an API?</title>
+
+    <conbody>
+
+        <p id="api-description">
+            An Application Programming Interface (API) is a set of rules that allows different software applications to communicate with one another by sending requests and receiving responses.
+        </p>
+
+    </conbody>
+
+</concept>
