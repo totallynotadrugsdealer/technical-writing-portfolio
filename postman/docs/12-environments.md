@@ -60,7 +60,7 @@ To switch environments:
 
 Postman immediately begins using the variables stored in the selected environment for any requests that reference them.
 
-![Selecting an environment](../images/environment-selector.png)
+![Selecting an environment](../images/environment-selector.png) 
 
 *Figure 1. Selecting the active environment.*
 
