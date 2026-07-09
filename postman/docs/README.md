@@ -4,7 +4,7 @@
 
 This project is part of my **Technical Writing Portfolio** and demonstrates my approach to planning, researching, structuring, writing, and maintaining end-user software documentation.
 
-Rather than documenting a fictional product, I chose **Postman**, a widely used API development platform, to create documentation that reflects real-world technical writing practices. The goal of this project is not to replace the official Postman documentation, but to produce a beginner-oriented learning guide that introduces Postman's core concepts through clear, structured, task-based documentation.
+I chose **Postman**, a widely used API development platform, to create documentation that reflects real-world technical writing practices. The goal of this project is to produce a beginner-oriented learning guide that introduces Postman's core concepts through clear, structured, task-based documentation.
 
 This documentation has been written with first-time users in mind and follows a progressive learning path, beginning with foundational concepts before introducing practical tasks and troubleshooting techniques.
 
